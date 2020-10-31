@@ -1,6 +1,6 @@
-### Hi there 👋 Here is my latest tutorial 👇
+### Hi there 👋 Here is my latest article 👇
 <div>
-  <a href="https://mihail-gaberov.eu/how-to-build-an-spa-with-vuejs-and-csharp-dotnet-core/">
-    <img alt="How to Build an SPA with Vue.js and C# Using .NET Core" src="https://mihail-gaberov.eu/static/70bd106ecb55cd8fbac5d94ab2fc8056/5a190/dashboard.png" />
+  <a href="https://mihail-gaberov.eu/how-to-automate-simple-tasks-with-nodejs/">
+    <img alt="How to Automate Simple Tasks with Node.js" src="https://mihail-gaberov.eu/static/1da0e266b3cf36a53cf4a3e6d1e4828e/a8a14/head-image.jpg" />
   </a>
 </div
