@@ -1,6 +1,4 @@
-### Hi there 👋 Here is my latest article 👇
-<div>
-  <a href="https://mihail-gaberov.eu/how-to-automate-simple-tasks-with-nodejs/">
-    How to Automate Simple Tasks with Node.js
-  </a>
-</div
+
+![](https://github-readme-stats.vercel.app/api?username=mihailgaberov&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihailgaberov&layout=compact)
