@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like to share what I learn in my blog here 👇
+You might find something interesting here 👇
 
 [![](https://img.shields.io/website?color=e4740c&style=flat-square&up_message=mihail-gaberov.eu&url=https%3A%2F%2Fmihail-gaberov.eu)](https://mihail-gaberov.eu)
 
