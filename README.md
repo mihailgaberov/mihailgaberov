@@ -13,5 +13,5 @@ You might find something interesting here 👇
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihailgaberov&show_icons=true&line_height=27&count_private=true&title_color=e4740c&text_color=c9cacc&icon_color=e4740c&bg_color=1d1f21" alt="Mihail's GitHub Stats" />
 </a>
 <a href="https://github.com/mihailgaberov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihailgaberov&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=e4740c&text_color=c9cacc&icon_color=e4740c&bg_color=1d1f21" alt="Mihail's GitHub Stats" />
+  <img align="left" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=mihailgaberov&theme=dark" />
 </a>
