@@ -1,9 +1,7 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=mihailgaberov&color=e4740c)
-
 You might find something interesting here 👇
 
-[![](https://img.shields.io/website?color=e4740c&style=flat-square&up_message=mihail-gaberov.eu&url=https%3A%2F%2Fmihail-gaberov.eu)](https://mihail-gaberov.eu)
+[![](https://img.shields.io/website?color=e4740c&style=flat-square&up_message=mihail-gaberov.eu&url=https%3A%2F%2Fmihail-gaberov.eu)](https://mihail-gaberov.eu) ![](https://komarev.com/ghpvc/?username=mihailgaberov&color=e4740c)
 
 ## Socials
 [![](https://api.iconify.design/fa-brands:linkedin.svg?height=30&color=%23313131) ](https://www.linkedin.com/in/%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-mihail-gaberov-6a73b03a/)&nbsp;&nbsp;[![](https://api.iconify.design/fa-brands:github.svg?height=30&color=%23313131) ](https://github.com/mihailgaberov)&nbsp;&nbsp;[![](https://api.iconify.design/fa-brands:twitter.svg?height=30&color=%23313131) ](https://twitter.com/mihailgaberov)
@@ -16,3 +14,4 @@ You might find something interesting here 👇
 <a href="https://github.com/mihailgaberov">
   <img align="left" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=mihailgaberov&theme=dark" />
 </a>
+
