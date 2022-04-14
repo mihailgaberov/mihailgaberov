@@ -1,5 +1,6 @@
 ### Hi there 👋
-You might find something interesting here 👇
+
+👇 Here, you might find something interesting.
 
 [![](https://img.shields.io/website?color=e4740c&style=flat-square&up_message=mihail-gaberov.eu&url=https%3A%2F%2Fmihail-gaberov.eu)](https://mihail-gaberov.eu) ![](https://komarev.com/ghpvc/?username=mihailgaberov&color=e4740c)
 
