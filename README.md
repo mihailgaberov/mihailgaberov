@@ -16,3 +16,5 @@ I have a new blog 🎉 Check it out here 👉 [![](https://img.shields.io/websit
   <img align="left" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=mihailgaberov&theme=dark" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mihailgaberov&margin-w=15&no-frame=true&column=4)](https://github.com/mihailgaberov)
+
