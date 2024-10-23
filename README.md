@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have a new blog 🎉 Check it out here 👉 [![](https://img.shields.io/website?color=e4740c&style=flat-square&up_message=mihailgaberov.com&url=https%3A%2F%2Fmihailgaberov.com)](https://mihailgaberov.com) 
+I have a new blog post 🎉 Check it out here 👉 [![](https://img.shields.io/website?color=e4740c&style=flat-square&up_message=mihailgaberov.com&url=https%3A%2F%2Fmihailgaberov.com)](https://mihailgaberov.com) 
 
 ![](https://komarev.com/ghpvc/?username=mihailgaberov&color=e4740c)
 
