@@ -12,6 +12,6 @@ I have a new blog post 🎉 Check it out here 👉 [![](https://img.shields.io/w
 <a href="https://github.com/mihailgaberov">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihailgaberov&show_icons=true&line_height=27&count_private=true&title_color=e4740c&text_color=c9cacc&icon_color=e4740c&bg_color=1d1f21" alt="Mihail's GitHub Stats" />
 </a>
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-p5f7l1ptg-mihail-gaberovs-projects.vercel.app?user=mihailgaberov&theme=dark" alt="GitHub Streak" />
+<a href="https://github.com/mihailgaberov">
+  <img src="https://github-readme-streak-stats-p5f7l1ptg-mihail-gaberovs-projects.vercel.app?user=mihailgaberov&theme=dark" onError="this.style.display='none';" alt="GitHub Streak" />
 </a>
